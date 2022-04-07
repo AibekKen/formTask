@@ -12,3 +12,7 @@ module.exports = {
       }
    }
 }
+
+module.exports = {
+   publicPath: '/formTask/'
+}
