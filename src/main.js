@@ -40,3 +40,5 @@ function toTyped() {
 }
 
 toTyped();
+
+Vue.config.devtools = true;
